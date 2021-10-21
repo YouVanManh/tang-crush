@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Duyền à!',
+    introTitle: 'Duyên à!',
     introDesc: `Cậu có  biết rằng cậu đã đánh
     cắp trái tim tớ hongg:3
     Có chắc đây là yêu
@@ -9,7 +9,7 @@ const CONFIG = {
     desc: 'và tính tớ cũng nhút nhát hongg thích lòng vòng...tớ muốn nói rằng.. ',
     btnYes: 'Nói gì ắ <33',
     btnNo: 'Đi ngủ điii ạ :3',
-    question:'Duyên!Nếu cậu đồng ý cho tớ một cậu hội,cậu đồng ý làm người yêu mình nhé <3',
+    question:'Duyên!Nếu cậu đồng ý cho tớ một câu hội,cậu đồng ý làm người yêu mình nhé <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Tớ đồng ý <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
